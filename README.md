@@ -76,5 +76,9 @@ python code/split_folds.py data/train.seg.cnt.vw  -n 5 --seed 12345
 ./mksub_vw.sh
 ```
 
-=======
-# ccf2015-sms-spam
+# 文档
+
+* 竞赛报告书.pdf
+* 技术方案说明.pdf
+
+直接在github网页中打开文档，其中的表格显示不出来。建议下载后阅读。
