@@ -1,4 +1,8 @@
 
+本例是对CCF2015 [垃圾邮件过滤竞赛](http://www.wid.org.cn/project/2015ccf/comp_detail.php?cid=227)的求解。
+
+
+
 # 程序说明
 
 ## 运行环境
