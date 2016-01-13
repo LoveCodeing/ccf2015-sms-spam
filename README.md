@@ -36,12 +36,16 @@ Linux 或 Mac OS均可。由于使用了一点shell脚本，所以对Windows不�
 
 ## 使用
 
+所有脚本都在项目的根目录下运行。
+
+
 ### 准备数据
 
 如果已经有数据，将测试集和训练集拷贝trian.txt, test.txt拷贝到data目录下。ln -s 建立符号链接亦可。
 如果没有，可从此[链接](http://pan.baidu.com/s/1bom8Ry3)下载, 密码: rx93 
 
 ### Feature 转换
+
 
 训练集
 ```
