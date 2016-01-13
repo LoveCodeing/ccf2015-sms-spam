@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 程序说明
 
@@ -79,4 +78,3 @@ python code/split_folds.py data/train.seg.cnt.vw  -n 5 --seed 12345
 
 =======
 # ccf2015-sms-spam
->>>>>>> 599d62e6963bcd8ace8a7b3f71350b84af5e2543
